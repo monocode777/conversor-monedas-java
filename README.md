@@ -1,4 +1,4 @@
-*Conversor de Monedas en Java
+*Conversor de Monedas en Java*
 *Descripción del proyecto
 
 Este proyecto es un conversor de monedas desarrollado en Java que utiliza una API externa para obtener tasas de cambio en tiempo real. El usuario puede seleccionar diferentes tipos de conversión, ingresar una cantidad y obtener el resultado calculado automáticamente. El programa funciona por consola y emplea las clases HttpClient y Gson para consumir y procesar la información proveniente del servicio externo.
