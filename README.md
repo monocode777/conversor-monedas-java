@@ -1,9 +1,9 @@
-*Conversor de Monedas en Java*
-*Descripción del proyecto
+#Conversor de Monedas en Java
+#Descripción del proyecto
 
 Este proyecto es un conversor de monedas desarrollado en Java que utiliza una API externa para obtener tasas de cambio en tiempo real. El usuario puede seleccionar diferentes tipos de conversión, ingresar una cantidad y obtener el resultado calculado automáticamente. El programa funciona por consola y emplea las clases HttpClient y Gson para consumir y procesar la información proveniente del servicio externo.
 
-*Funcionalidades
+#Funcionalidades
 
 Menú interactivo para seleccionar tipos de conversión.
 
@@ -23,7 +23,7 @@ Conversor.java – Interfaz del menú.
 
 ExchangeRateService.java – Conexión con la API y obtención de tasas.
 
-*Cómo usar el proyecto
+#Cómo usar el proyecto
 
 Clonar este repositorio:
 
@@ -48,18 +48,18 @@ Dónde encontrar ayuda
 
 En caso de dudas o problemas, se pueden consultar:
 
-*Documentación oficial de Java:
+#Documentación oficial de Java:
 https://docs.oracle.com/en/java/
 
-*Documentación de ExchangeRate-API:
+#Documentación de ExchangeRate-API:
 https://www.exchangerate-api.com/
 
-*Documentación de Gson:
+#Documentación de Gson:
 https://github.com/google/gson
 
 También se pueden abrir issues en el repositorio para soporte adicional.
 
-*Autores
+#Autores
 
 Edgar Mojica
 Desarrollador del proyecto, implementación del código y estructura principal.
